@@ -5,7 +5,7 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
 
 - 🌎 I'm currently located in NYC but I'm open to relocationg anywhere!
 - 📧 Feel free to contact me at <a target="_blank">yifanchen931@gmail.com</a>
-- 🌱 I’m currently learning on developing my Python and Java proficiency
+- 🌱 I’m currently learning on developing my Python and Java proficiency as well as Leetcode
 - ⚡ Fun fact: I can pop my shoulder in and out effortlessly 💀
 
 ---

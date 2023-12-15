@@ -1,12 +1,13 @@
 <h1>Hi there, I'm YiFan Chen👋 </h1>
 
 ---
-I'm a software engineer that graduated from Fullstack Academy back in February of 2023, and I focus mainly on Fullstack development with a preference on backend. In mid 2020, I decided that Physical Therapy wasn't it for me, and I pivoted from pursuing a Doctorate in PT towards learning software. I was fascinated by the intricacies of Human Physiology (I still am!), but now I'm even more fascinated by the intracacies of code and the amazing products that derive from that!
+I'm a software engineer that graduated from Fullstack Academy back in February of 2023, and I focus mainly on Fullstack development with a preference on backend. In mid 2020, I decided that Physical Therapy wasn't it for me, and I pivoted from pursuing a Doctorate in PT towards learning software. I was fascinated by the intricacies of Human Physiology (I still am!) but now I'm even more fascinated by the intracacies of code and the amazing products that derive from that!
 
-- 🌎 I'm currently located in NYC but I'm open to relocationg anywhere!
+- 🌎 I'm currently located in NYC but I'm open to relocating anywhere!
 - 📧 Feel free to contact me at <a target="_blank">yifanchen931@gmail.com</a>
 - 🌱 I’m currently working on developing my Python and Java proficiency as well as Leetcode
-- ⚡ Fun fact: I can pop my shoulder in and out effortlessly 💀
+- ⚡ Random fact about me: I can pop my shoulder in and out effortlessly 💀
+- 🧠 Fun Fact: While your gluteus maximus 🍑 is the biggest muscle, your calf muscle🦵generate the most force while your jaw muscle😁generates the most pressure!
 - 💬 Feel free to ask me anything about coding or physiology 🫀
 
 ---

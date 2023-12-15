@@ -1,5 +1,8 @@
 ### Hi there, I'm YiFan Chen👋 
 
+---
+I'm a software engineer that graduated from Fullstack Academy back in February of 2023, and I focus mainly on fullstack development with a preference on backend. In mid 2020, I decided that physical therapy wasn't it for me, and I pivoted from pursuing a Doctorate in PT towards learning software. I was fascinated by the intricacies of human physiology (I still am!), but now I'm even more fascinated by the intracacies of code and the amazing products that derive from that!
+
 <!--
 **ychen289/ychen289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

@@ -5,8 +5,9 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
 
 - 🌎 I'm currently located in NYC but I'm open to relocationg anywhere!
 - 📧 Feel free to contact me at <a target="_blank">yifanchen931@gmail.com</a>
-- 🌱 I’m currently learning on developing my Python and Java proficiency as well as Leetcode
+- 🌱 I’m currently working on developing my Python and Java proficiency as well as Leetcode
 - ⚡ Fun fact: I can pop my shoulder in and out effortlessly 💀
+- 💬 Feel free to ask me anything about coding or physiology 🫀
 
 ---
 <h2>I enjoy working with these technologies</h2>
@@ -19,6 +20,7 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="50" height="50">
 </div>
   
 

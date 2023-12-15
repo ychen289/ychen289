@@ -13,7 +13,7 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
 <h2>I enjoy working with these technologies</h2>
 <div style="display: flex;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"></a>
-  <a href="https://python.org" target="_blank" rel="noreferrer">img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"></a>
+  <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"></a>
   <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"></a>
   <a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"></a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50"></a>

@@ -1,7 +1,12 @@
 ### Hi there, I'm YiFan Chen👋 
 
 ---
-I'm a software engineer that graduated from Fullstack Academy back in February of 2023, and I focus mainly on fullstack development with a preference on backend. In mid 2020, I decided that physical therapy wasn't it for me, and I pivoted from pursuing a Doctorate in PT towards learning software. I was fascinated by the intricacies of human physiology (I still am!), but now I'm even more fascinated by the intracacies of code and the amazing products that derive from that!
+I'm a software engineer that graduated from Fullstack Academy back in February of 2023, and I focus mainly on Fullstack development with a preference on backend. In mid 2020, I decided that Physical Therapy wasn't it for me, and I pivoted from pursuing a Doctorate in PT towards learning software. I was fascinated by the intricacies of Human Physiology (I still am!), but now I'm even more fascinated by the intracacies of code and the amazing products that derive from that!
+
+- 🌎 I'm currently located in NYC but I'm open to relocationg anywhere!
+- 📧 Feel free to contact me at <a target="_blank">yifanchen931@gmail.com</a>
+- 🌱 I’m currently learning on developing my Python and Java proficiency
+- ⚡ Fun fact: I can pop my shoulder in and out effortlessly 💀
 
 <!--
 **ychen289/ychen289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

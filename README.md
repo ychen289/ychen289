@@ -20,6 +20,8 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="50" height="50">
 </div>
   

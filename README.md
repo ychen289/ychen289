@@ -6,9 +6,10 @@ I'm a software engineer that graduated from Fullstack Academy back in February o
 - 🖥️ View my portfolio <a href="https://yifanchen.vercel.app/" target="_blank" rel="noreferrer">https://yifanchen.vercel.app</a>
 - 📧 Feel free to contact me at <a target="_blank">yifanchen931@gmail.com</a>
 - 🌱 I’m currently working on developing my Python and Java proficiency as well as Leetcode
-- ⚡ Random fact about me: I can pop my shoulder in and out effortlessly 💀
-- 🧠 Fun Fact: While your gluteus maximus 🍑 is the biggest muscle, your calf muscle🦵generate the most force while your jaw muscle😁generates the most pressure!
 - 💬 Feel free to ask me anything about coding or physiology 🫀
+- ⚡ Random fact about me: I can pop my shoulder in and out effortlessly 💀
+- 🧠 Fun Fact: While your gluteus maximus 🍑 is the biggest muscle, your calf muscles🦵generate the most force while your jaw muscles😁generates the most pressure!
+
 
 ---
 <h2>I enjoy working with these technologies</h2>
